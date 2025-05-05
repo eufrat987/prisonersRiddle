@@ -10,6 +10,6 @@ The director of a prison offers 100 death row prisoners, who are numbered from 1
 - Chance of prisoners to win game is ~0%.
 
 ### Loop strategy 
-- Pick box with prisoner assigned number and then pick box with number founed inside in previuos box and repeat 49 times.
-- Change of prisoners to win game is ~33%.
+- Pick box with prisoner assigned number and then pick box with number founded inside in previuos box and repeat 49 times.
+- Chance of prisoners to win game is ~33%.
   
